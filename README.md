@@ -2,7 +2,7 @@
 
 :computer: I'm a Backend Engineer. I enjoy solving complex problems by developing robust (web) applications/services and APIs.
 
-😄 I'm interested in Cloud Architecture, Cloud Development/Cloud DevOps and Software Engineering.
+:revolving_hearts: I'm interested in Cloud Architecture, Cloud Development/Cloud DevOps and Software Engineering.
 
 🌱 I’m currently learning Cloud Development and Cloud DevOps.
 
@@ -10,5 +10,5 @@
 
 📫 You can reach me on oluwatobiloba1@gmail.com
 
-⚡ Fun fact: I love football and enjoy Sci-fi movies
+⚡ Fun fact: I love football and I enjoy Sci-fi movies
 
