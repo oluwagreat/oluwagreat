@@ -1,16 +1,14 @@
-### Hi there 👋
+👋Hi, I'm **Babalola Oluwatobi** 
 
-<!--
-**oluwagreat/oluwagreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: I'm a Backend Engineer. I enjoy solving complex problems by developing robust (web) applications/services and APIs.
 
-Here are some ideas to get you started:
+😄 I'm interested in Cloud Architecture, Cloud Development/Cloud DevOps and Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Cloud Development and Cloud DevOps.
+
+👯 I’m looking to collaborate on working with a variety of Cloud technologies including Aws,Azure and Google cloud and Software engineering projects.
+
+📫 You can reach me on oluwatobiloba1@gmail.com
+
+⚡ Fun fact: I love football and enjoy Sci-fi movies
+
