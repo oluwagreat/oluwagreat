@@ -2,7 +2,7 @@
 
 :computer: I'm a Backend Engineer. I enjoy solving complex problems by developing robust (web) applications/services and APIs.
 
-:revolving_hearts: I'm interested in Cloud Architecture, Cloud Development/Cloud DevOps and Software Engineering.
+:revolving_hearts: I'm interested in Software Engineering, Cloud Architecture and Cloud DevOps.
 
 🌱 I’m currently learning Cloud Development and Cloud DevOps.
 
